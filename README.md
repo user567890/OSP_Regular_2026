@@ -1,7 +1,6 @@
+# OSP Evening 2026 — List of Regular Students
 
-# OSP Regular 2026 — List of Regular Students
-
-A collaborative list of regular students for OSP Evening 2026.
+A collaborative list of regular students for OSP Regular 2026.
 Add your name by following the steps below.
 
 ---
@@ -85,6 +84,7 @@ John Smith, 123458           ← missing NO and DEPARTMENT
 | Use lowercase names | Use UPPERCASE for full name |
 | Add multiple rows | Add exactly ONE row |
 | Commit directly to `main` | Always use a new branch + pull request |
+45,AURELIA STEPHEN HILLARY, 22_CCS_233,COMPUTER SCIENCE 
 
 
 
