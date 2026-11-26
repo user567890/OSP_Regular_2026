@@ -84,6 +84,7 @@ John Smith, 123458           ← missing NO and DEPARTMENT
 | Use lowercase names | Use UPPERCASE for full name |
 | Add multiple rows | Add exactly ONE row |
 | Commit directly to `main` | Always use a new branch + pull request |
+45,AURELIA STEPHEN HILLARY, 22_CCS_233,COMPUTER SCIENCE 
 
 
 
